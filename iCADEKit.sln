@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iCADEKit", "iCADEKit\iCADEKit.csproj", "{1842DED1-725D-4604-A190-F5CCFFB4BCFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1842DED1-725D-4604-A190-F5CCFFB4BCFD}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{1842DED1-725D-4604-A190-F5CCFFB4BCFD}.Debug|iPhone.Build.0 = Debug|iPhone
+		{1842DED1-725D-4604-A190-F5CCFFB4BCFD}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{1842DED1-725D-4604-A190-F5CCFFB4BCFD}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{1842DED1-725D-4604-A190-F5CCFFB4BCFD}.Release|iPhone.ActiveCfg = Release|iPhone
+		{1842DED1-725D-4604-A190-F5CCFFB4BCFD}.Release|iPhone.Build.0 = Release|iPhone
+		{1842DED1-725D-4604-A190-F5CCFFB4BCFD}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{1842DED1-725D-4604-A190-F5CCFFB4BCFD}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = iCADEKit\iCADEKit.csproj
+	EndGlobalSection
+EndGlobal
